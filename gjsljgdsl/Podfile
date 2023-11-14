@@ -9,5 +9,6 @@ target 'gjsljgdsl' do
 
 
 pod 'Masonry'
+pod 'AFNetworking'
 
 end
